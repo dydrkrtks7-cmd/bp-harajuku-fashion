@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[Harajuku Harajuku fashion 안내]]></title>
-  <link>https://</link>
-  <description><![CDATA[Harajuku 정보 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Tue, 26 May 2026 08:43:08 GMT</pubDate>
-  <lastBuildDate>Tue, 26 May 2026 08:43:08 GMT</lastBuildDate>
-  <atom:link href="https:///feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[정보]]></title>
+  <link>https://dydrkrtks7-cmd.github.io/bp-harajuku-fashion</link>
+  <description><![CDATA[정보 - Harajuku fashion 안내 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Tue, 09 Jun 2026 23:41:05 GMT</pubDate>
+  <lastBuildDate>Tue, 09 Jun 2026 23:41:05 GMT</lastBuildDate>
+  <atom:link href="https://dydrkrtks7-cmd.github.io/bp-harajuku-fashion/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[Harajuku Harajuku fashion 안내 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https:///</link>
-      <guid isPermaLink="true">https:///</guid>
-      <description><![CDATA[Harajuku 정보 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Tue, 26 May 2026 08:43:08 GMT</pubDate>
+      <title><![CDATA[창작한 제목]]></title>
+      <link>https://dydrkrtks7-cmd.github.io/bp-harajuku-fashion/posts/guide-001-1q9deey.html</link>
+      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-harajuku-fashion/posts/guide-001-1q9deey.html</guid>
+      <description><![CDATA[## 엘든링 미사용 보스 데이터 마이닝과 실제 패턴 : 스팀 판매 중단 사유 분석 아, 진짜... 게임 개발 비화를 통해 우리는 특정 버전의 엘든링에서 발견된 미사용 보스 세 종류가 있었는데요. 이들은 스팀 출시 3일 만에 판매 중단되었으니, 그 이유는 무엇일까요? #]]></description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
