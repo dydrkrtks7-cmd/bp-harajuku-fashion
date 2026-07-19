@@ -7,4 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://dydrkrtks7-cmd.github.io/bp-harajuku-fashion/sitemap.xml
+Sitemap: https://harajuku-fashion-guide.pbn-builder.xyz/sitemap.xml
